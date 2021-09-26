@@ -6,7 +6,7 @@
 
 - 👨‍💻 You can checkout my Portfolio [http://nadiminfo.com/Portfolio](http://nadiminfo.com/Portfolio)
 
-- 📫 You can reach me anytime **nadim98hossain@gmail.com**
+- 📫 Reach me at anytime **nadim98hossain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
