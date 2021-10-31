@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimhossainmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="nadimhossainmahmud" /> </p>
 
 
-- 👨‍💻 You can checkout my Portfolio [http://nadiminfo.com/Portfolio](http://nadiminfo.com/Portfolio)
+- 👨‍💻 You can checkout my Portfolio [http://nadiminfo.com/Portfolio](http://nadiminfo.com)
 
 - 📫 Reach me at anytime **nadim98hossain@gmail.com**
 
