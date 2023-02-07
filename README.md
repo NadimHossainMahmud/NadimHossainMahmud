@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadim Hossain</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&psig=AOvVaw1SHw12di0Ojx-F97XdvKP3&ust=1675861565310000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIi8jvy8g_0CFQAAAAAdAAAAABAS">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimhossainmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="nadimhossainmahmud" /> </p>
 
@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/nadim hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadim hossain" height="30" width="40" /></a>
 <a href="https://fb.com/nadim hossain mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadim hossain mahmud" height="30" width="40" /></a>
 <a href="https://instagram.com/nadim_hossain_mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadim_hossain_mahmud" height="30" width="40" /></a>
+<a href="https://twitter.com/nadim98hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nadim98hossain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
